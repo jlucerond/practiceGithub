@@ -28,3 +28,13 @@ class ViewController: UIViewController {
 // adding a second comment
 
 // one last test
+
+/* so many goddamn comments here
+ 
+ here's a comment
+ 
+ there's a comment
+ 
+ insert a comment gif here
+ 
+ last comment */
