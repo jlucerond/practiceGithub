@@ -38,3 +38,5 @@ class ViewController: UIViewController {
  insert a comment gif here
  
  last comment */
+
+// what happens if i sync out of order???
